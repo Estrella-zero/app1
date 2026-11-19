@@ -1,0 +1,35 @@
+{
+    "name": "方向匹配",
+    "short_name": "方向匹配",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#FFFBF4",
+    "theme_color": "#FFFBF4",
+    "description": "方向匹配动画小游戏：Flutter 动画课程实践骨架。",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

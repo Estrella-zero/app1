@@ -1,0 +1,23 @@
+name: flutter_animation_game
+description: "方向匹配动画小游戏：移动软件开发课程 Flutter 动画实践工程骨架。"
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.13.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Lottie 资源位已预留，确认要接入时再解开：
+  # lottie: ^3.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/lottie/
